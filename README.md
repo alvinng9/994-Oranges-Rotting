@@ -1,1 +1,1 @@
-Solution for this leetcode problem: [994. Rptting Oranges](https://leetcode.com/problems/rotting-oranges/)
+Solution for this leetcode problem: [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
